@@ -1,0 +1,8 @@
+mlx-whisper
+silero-vad
+kokoro
+ollama
+sounddevice
+soundfile
+numpy
+torch
